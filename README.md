@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @bibitheone
-- 👀 I’m interested in learning cyber security      
-- 🌱 I’m currently learning html - css -javascript
+- 👋 Hi, I’m @bibitheone    
+- 🌱 I’m currently Web Developement , Java , Python .
 - 💞️ I’m looking to collaborate on small projects  
 - 📫 How to reach me amar.benayabb@gmail.com
 
